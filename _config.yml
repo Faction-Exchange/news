@@ -21,7 +21,7 @@
 title: Faction Exchange Blog
 email: fe@beauthebeau.pro
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, world! This is the blog for Faction Exchange.
+  This is the web page of Faction Exchange, a hub for all MWT faction related news, and updates.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  faction-exchange
