@@ -1,4 +1,10 @@
-# TBL Reformation Continues: A Follow-Up on Recent Changes
+---
+layout: post
+title: TBL Reformation Continues: A Follow-Up on Recent Changes
+date: 2023-10-7
+author: beauthebeau.js, Faction Exchange Broadcasting
+categories: [ "Factions" ]
+---
 
 In a series of proactive measures and very, very, very innovative restructuring, **:TBL: The Black League [TBL]** has witnessed a series of reforms in quick succession. The committed trio of reformers have worked hard to improve the faction. Here is a follow-up on the recent developments:
 
