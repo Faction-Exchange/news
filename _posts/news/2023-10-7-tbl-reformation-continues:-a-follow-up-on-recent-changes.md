@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TBL Reformation Continues: A Follow-Up on Recent Changes
+title: TBL Reformation Continues, A Follow-Up on Recent Changes
 date: 2023-10-7
 author: beauthebeau.js, Faction Exchange Broadcasting
 categories: [ "Factions" ]
